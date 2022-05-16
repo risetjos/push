@@ -1,0 +1,121 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+
+      "backup_ads_banner": "",
+
+      "backup_ads_intertitial": "",
+	  
+	  "native_ads_admob": "ca-app-pub-3940256099942544/2247696110",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "3",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Lestari",
+
+      "duration": "04:52",
+
+      "image": "file:///android_asset/icon.png",
+
+      "title": "Boombayah",
+
+      "url": "file:///android_asset/Airmata Dihari Persandinganmu.mp3"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Candy",
+
+      "duration": "05:08",
+
+      "image": "file:///android_asset/icon.png",
+
+      "title": "Whistle",
+
+      "url": "file:///android_asset/Akan ku Tunggu.mp3"
+
+    },
+
+    {
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Dinamik",
+
+      "duration": "04:57",
+
+      "image": "file:///android_asset/icon.png",
+
+      "title": "Playing With Fire",
+
+      "url": "file:///android_asset/Biar Putih Tulang.mp3"
+
+    },
+
+    {
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Siti Nurhaliza",
+
+      "duration": "04:56",
+
+      "image": "file:///android_asset/icon.png",
+
+      "title": "Stay",
+
+      "url": "file:///android_asset/Cindai.mp3"
+
+    }
+
+  ]
+
+}
